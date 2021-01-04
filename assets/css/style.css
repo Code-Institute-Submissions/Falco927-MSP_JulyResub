@@ -9,6 +9,10 @@
         body { 
             font-family:Lato;
             color:#777777;
+			background-color: rgb(248, 246, 244);
+			background-image: url("https://pixabay.com/get/54e9d2444f54ad14f6d1867dda3536781536d9e75053784e_1920.jpg");; 
+			font-size: 20px;
+			margin: 0;
         }   
         
         h2 {
@@ -48,8 +52,36 @@
             border-bottom:1px solid #777777; 
         }
         
-        #christmas-image{
-            height:500px;
-            width:100%;
-            background:url("https://pixabay.com/photos/christmas-ornament-holiday-2535555/");
-        } 
+        #h1{
+            height:auto;
+            align-content: center;
+            bottom:400px;
+        }
+        .h2{
+            height: auto;
+            align-content:center;
+            bottom: auto; 
+            margin-bottom:100px auto;
+        }
+        #center-about{
+             height:auto;
+             margin-bottom:0 auto;
+        }
+ 
+        footer{
+            height:150px;
+        }
+        
+        .social-networks{
+            text-align: center;
+        }
+       
+        .social-networks li{
+            display:inline;  
+        }
+        .social-networks i{
+            font-size:180%;
+            margin: 1%;
+            padding: 5%;
+            color: #777777;
+        }    
