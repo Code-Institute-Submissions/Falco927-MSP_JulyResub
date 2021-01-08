@@ -1,22 +1,24 @@
  @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
         
         *{
-          margin:0;
-          padding:0;
-          border:0;   
-        }
-        
+           margin:0;
+           padding:0;
+           border:0;   
+         }
+        /* credit : code based on Love Running project from code institute https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/8b3e9adaef764e1d962a85668c799cdd/?child=first */
+
         body { 
             font-family:Lato;
             color:#f1f1f1;
-			/* background-color: rgb(131, 243, 247); */
-            background-image: url("/workspace/MSP/assets/img/christmas-2942305_1280.jpg");
+			/* background-color: rgb(131, 243, 247);*/
+            background-image: url("../img/christmas-2942305_1280.jpg");
             font-size: 20px; 
             margin: 0;
         }   
         
         h2 {
             font-family:Oswald;
+            padding-top: 100px;
             text-transform:uppercase;
             letter-spacing:4px;
             color:#555555;
@@ -69,9 +71,6 @@
              height:auto;
              margin-bottom:0 auto;
         }
-        #centered { 
-             property:bottom;
-        }
         
         footer{
             height:150px;
@@ -117,11 +116,10 @@
            hr { 
              display:none;    
            }           
-        
-           }
-
-
-          
+         
+           }  
+         
+         /* credit: code taken from https://www.w3schools.com/howto/howto_css_signup_form.asp  to meet project needs */     
          * {box-sizing: border-box}
 
          /* Full-width input fields */
@@ -191,3 +189,59 @@
         }
        } 
 
+        /* credit: code taken from https://www.w3schools.com/howto/howto_css_contact_section.asp to meet project needs */ 
+        * {
+            box-sizing: border-box;
+          }
+
+        /* Style inputs */
+    input[type=text], select, textarea {
+          width: 100%;
+          padding: 12px;
+          border: 1px solid #ccc;
+          margin-top: 6px;
+          margin-bottom: 16px;
+          resize: vertical;
+    }
+
+    input[type=submit] {
+         background-color: #4CAF50;
+         color: white;
+         padding: 12px 20px;
+         border: none;
+         cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+         background-color: #45a049;
+    }
+
+    /* Style the container/contact section */
+    .container {
+        border-radius: 5px;
+        background-color:none;
+        padding: 10px;
+    }
+
+    /* Create two columns that float next to eachother */
+    .column {
+       float: left;
+       width: 50%;
+       margin-top: 6px;
+       padding: 20px;
+    }
+
+    /* Clear floats after the columns */
+    .row:after {
+       content: "";
+       display: table;
+       clear: both;
+     }
+
+    /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+       width: 100%;
+       margin-top: 0;
+    }
+   }    
