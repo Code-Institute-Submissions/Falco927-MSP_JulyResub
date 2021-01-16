@@ -23,6 +23,12 @@
             letter-spacing:4px;
             color:#555555;
         }
+
+        .center {  
+           text-align:center;
+           color:#f1f1f1; 
+        }  
+        
         
         #logo{ 
             float:left;
@@ -100,6 +106,14 @@
          #photo img { 
             width: 100%;
          }
+
+         .products { 
+             position:relative;
+             width:100px;
+             margin-right:300px;
+             padding-top:200px;
+             padding-right: 200px;
+          }
 
          @media screen and (max-width:1393px ) {
            #photo {  
