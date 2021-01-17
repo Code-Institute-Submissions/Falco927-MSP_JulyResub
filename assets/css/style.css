@@ -11,7 +11,7 @@
             font-family:Lato;
             color:#f1f1f1;
 			/* background-color: rgb(131, 243, 247);*/
-            background-image: url("../img/christmas-2942305_1280.jpg");
+            background-image: url("../img/christmas-2942305_1280.jpg");  
             font-size: 20px; 
             margin: 0;
         }   
@@ -114,6 +114,20 @@
              padding-top:200px;
              padding-right: 200px;
           }
+
+          .centered { 
+            font-family: Oswald;  
+            left: 0;
+            line-height: 50px;
+            margin-top: 30px;
+            position: absolute;
+            text-align: center;
+            top: 20%;
+            bottom:50%;
+            width: 100%;
+            color:#555555;
+           }
+          
 
          @media screen and (max-width:1393px ) {
            #photo {  

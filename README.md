@@ -36,7 +36,7 @@ our loved customers feel special and important.
       a. As First time visitor I want to see clean and usable page with Professional design.     
             
       b. As First time visitor I will look for a realible minimalist brand with straightforward content.
-         I will like to enjoy my experience as a customer.   
+         I will like to enjoy most of my experience as a customer.   
 
       c. As a first time exploring the website i want to be able to learn about the content 
          and also expect some type of guidance.     
@@ -54,13 +54,15 @@ our loved customers feel special and important.
     
     * Frequent user goals 
 
-      a. 
+      a. As a Frequent user my goal is to get most of my experince as customer and as a brand follower I will 
+      expect some updates on social media platforms such as facebook, Instragram and twitter.  
 
       
-      b. 
+      b. As a Frequent user I would like to be encouraged with emails subscriptions with updates 
+      about any promotions / sales or any product launch.  
 
       
-      c.  
+      c.  As a Frequent user I will expect a more special customer experience.
 
 
 * Design 
@@ -74,10 +76,10 @@ our loved customers feel special and important.
 
 * Wireframes  
 
-    * Homepage 
-    * Products page 
-    * Sign up
-    * Contact   
+    * [Homepage](assets/wireframes/wireframes.png)  
+    * [Products page](assets/wireframes/wireframes.png)  
+    * [Sign up](assets/wireframes/wireframes.png) 
+    * [Contact](assets/wireframes/wireframes.png)  
 
 
 # Features 
