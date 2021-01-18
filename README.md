@@ -70,9 +70,10 @@ our loved customers feel special and important.
     * Imagery 
         
         *  All the Project images was taken from Pixabay:https://pixabay.com/photos/chocolate-christmas-2422299/ 
-           also:https://pixabay.com/photos/christmas-christmas-time-2942305/      
-
-
+           also:https://pixabay.com/photos/christmas-christmas-time-2942305/ ; 
+                https://pixabay.com/photos/chocolate-christmas-2422300/     
+                http://www.pitcairngreeninn.co.uk/home/christmas-2535555_1920  
+                  
 
 * Wireframes  
 
@@ -93,9 +94,9 @@ our loved customers feel special and important.
   
 ## Languages used 
 
-  * [HTML5 link ] (https://en.wikipedia.org/wiki/HTML5)
+  * [HTML5] (https://en.wikipedia.org/wiki/HTML5)
 
-  * [CSS3 link ] (https://en.wikipedia.org/wiki/CCS3)
+  * [CSS3] (https://en.wikipedia.org/wiki/CCS3)
 
 ***
 
@@ -111,17 +112,20 @@ our loved customers feel special and important.
         * I used Balsamiq to create the wireframes.   
 
 
-# Testing   
+# Testing 
 
- *
- *
+ W3C Markup Validator and W3C CSS Validator both services were used to validate
+ every HTML/CSS file of the Project.   
+
+ * [W3C Markup Validator](https://validator.w3.org/#validate_by_input) 
+ * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
 
 
 # Deployment   
 
 ## GitHub pages 
 
-## Forking the GitHub repository 
+ 
 
 ## Making a local Clone   
 

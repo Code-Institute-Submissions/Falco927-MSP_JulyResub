@@ -70,12 +70,12 @@
             height: auto;
             align-content:center;
             bottom: auto; 
-            margin-bottom:100px auto;
+            margin-bottom:auto;
         }
 
         #center-about{
              height:auto;
-             margin-bottom:0 auto;
+             margin-bottom:auto;
         }
         
         footer{
@@ -110,9 +110,9 @@
          .products { 
              position:relative;
              width:100px;
-             margin-right:300px;
+             margin-right:100px;
              padding-top:200px;
-             padding-right: 200px;
+             padding-right: 100px;
           }
 
           .centered { 
@@ -247,7 +247,6 @@
     /* Style the container/contact section */
     .container {
         border-radius: 5px;
-        background-color:none;
         padding: 10px;
     }
 
