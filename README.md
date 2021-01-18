@@ -125,7 +125,14 @@ deliver a more personalized service to our lovely customers, and to make them fe
 
 ## GitHub pages 
 
- 
+Project deployed with the following steps 
+
+1. Click on settings in GitHub 
+2. Scroll down to GitHub pages 
+3. Press button none and select Master branch 
+4. Press save (hold for few seconds) 
+6. Then the Link is ready.  
+
 
 ## Making a local Clone   
 
