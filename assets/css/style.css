@@ -11,7 +11,8 @@
             font-family:Lato;
             color:#f1f1f1;
 			/* background-color: rgb(131, 243, 247);*/
-            background-image: url("../img/christmas-2942305_1280.jpg");  
+            background-image: url("../img/christmas-2942305_1280.jpg"); 
+            background-repeat: no-repeat; 
             font-size: 20px; 
             margin: 0;
         }   
@@ -66,11 +67,11 @@
             align-content: center;
             bottom:400px;
         }
-        .h2{
+        h2{
             height: auto;
             align-content:center;
             bottom: auto; 
-            margin-bottom:auto;
+            margin-bottom:30px;
         }
 
         #center-about{
@@ -99,20 +100,23 @@
          #photo { 
             clear:both; 
             line-height: 0;
-            column-count: 3;  
-            column-gap: 0;
+            column-count: 2;
+            margin-bottom:20px;  
+            column-gap: 1;
          }
          
          #photo img { 
             width: 100%;
+            margin-bottom:20px;
          }
 
-         .products { 
+         .p{ 
              position:relative;
-             width:100px;
-             margin-right:100px;
-             padding-top:200px;
-             padding-right: 100px;
+             width:350px;
+             font-size: 50px;
+             margin-bottom:20px;
+             padding-top:100px;
+             padding-right: 250px;
           }
 
           .centered { 

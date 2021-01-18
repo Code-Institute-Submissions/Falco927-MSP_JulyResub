@@ -1,29 +1,29 @@
 
 # FESTIVE SPACE 
 
-Festive space  is  a well known established  small brand  which  sales  
-a diverse range of products throughout the year for different occasions 
-such christmas and  new years eve celebrations and is target audience 
-is mainly for groups of people with ages between 20-65, this brand 
+Festive space is a well-known established start-up brand  which sales  
+a diverse range of food and drink products throughout the year for different 
+occasions such christmas and new year's eve celebrations and is target audience 
+is groups of people with ages between 20-65, this brand 
 is very open for business to any type of interested customers but it 
 sales more in particular for families or groups of friends. 
 Our purpose subsists in creating an online community platform for our 
 customers so that we develop an improved  customer experience in which 
 we will retain existing customers and engage with new customers.        
 
-Festive space's main business goal is to create an online community for 
+Festive space's main business goal is to develop an online community for 
 customers where we can dedicate more time to engage with  existing customers
 and build long-lasting relationships and convert  customer relationships into 
 brand love but also improve the quality of customer experience. 
 Engaging directly with customers is a great way to really understand what 
-they want and what they need , it really helps us improve to market our products 
+they want and what they really need , it really helps us improve to market our products 
 increasing marketing performance but not only performance but sales, sales means is 
 good for business  and potentially returning happy customers.   
 Creating an online community platform  will also make FESTIVE SPACE look friendly, 
-professional and caring . Throughout the year we will be able to create products for 
-different occasions such as valentine's day , halloween and Christmas by  presenting 
-products on our platform before the official launch  which is such a great way to make 
-our loved customers feel special and important.  
+professional and caring brand. During the year we will be able to create products for 
+different occasions such as Valentine's day , Halloween and Christmas day by presenting 
+products on our community platform before the official launch which is such a great way to 
+deliver a more personalized service to our lovely customers, and to make them feel special.   
 
 
 # User Experience  
@@ -150,14 +150,14 @@ our loved customers feel special and important.
 
 #### Media 
 
-* All the project images was taken from pixabay.  
+* All the project images were taken from pixabay.  
 
 ### Acknowledgements 
 
-*
-
-
-
+* Thank you to my Mentor support and feedback. 
+* Thank you for the tutor support great team for their advice and consistent feedback and 
+  patience with me. 
+    
 
 ***
 
