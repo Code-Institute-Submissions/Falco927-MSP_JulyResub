@@ -94,13 +94,14 @@ deliver a more personalized service to our lovely customers, and to make them fe
   
 ## Languages used 
 
-  * [HTML5]/[CSS3](https://en.wikipedia.org/wiki/HTML5) (https://en.wikipedia.org/wiki/CCS3) Languages used to develop the project. 
+  * [HTML5] [CSS3](https://en.wikipedia.org/wiki/HTML5)(https://en.wikipedia.org/wiki/CCS3) Languages used to develop the project. 
 
   * [Balsamiq](https://balsamiq.com) Used to create all the wireframes for the project.
   
   * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) Used to styling the webpage. 
   
   * [FontAwesome](https://fontawesome.com) It was used for Icons on the site. 
+  * [Gitpod](https://www.gitpod.io) Used to code and develop this website.  
    
 
 ***
