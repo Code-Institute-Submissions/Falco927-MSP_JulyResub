@@ -7,12 +7,15 @@
 }
 /* credit : code based on Love Running project from code institute https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/8b3e9adaef764e1d962a85668c799cdd/?child=first */
 
+
 body {
   font-family: Lato;
   color: #f1f1f1;
   /*background-color: rgb(131, 243, 247);*/
   background-image: url("../img/christmas-2942305_1280.jpg");  
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
   font-size: 20px;
   margin: 0;
 }
