@@ -85,6 +85,14 @@ deliver a more personalized service to our lovely customers, and to make them fe
 
 # Features 
 
+##  Existing features  
+
+ * Minimalist and clean site - This website was designed to provide a clean and smooth experience to users, created with bootstrap.  
+
+ * Contact -  
+
+ * Social media links -   
+
  * The website is responsive on all device sizes.  
 
  * Features left to implement  
