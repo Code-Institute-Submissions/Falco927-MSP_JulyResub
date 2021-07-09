@@ -27,7 +27,7 @@ deliver a more personalized service to our lovely customers, and to make them fe
 
 # Index 
 
-* Festive space 
+* [Festive space]  
 * User Experience 
     * User stories 
     * Design 
@@ -142,7 +142,7 @@ deliver a more personalized service to our lovely customers, and to make them fe
   
 ## Languages used 
 
-  * [HTML5] [CSS3]Languages used to develop the project. 
+  * HTML5 / CSS3 Languages used to develop the project. 
 
   * [Balsamiq](https://balsamiq.com) Used to create all the wireframes for the project.
   
