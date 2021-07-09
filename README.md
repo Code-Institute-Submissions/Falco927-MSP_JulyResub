@@ -32,11 +32,33 @@ deliver a more personalized service to our lovely customers, and to make them fe
     * User stories 
     * Design 
        * Imagery 
-* Wireframes  
-      
-      
-      
 
+* Wireframes 
+
+     * Homepage 
+     * Products page 
+     * Sign up page 
+     * Contact page 
+     
+* Features 
+     * Existing features 
+     * Features left to implement 
+
+* Technologies 
+     * Languages used 
+
+* Frameworks 
+* Testing 
+* Deployment 
+     * GitHub pages 
+* Making a local Clone 
+* Credits 
+     * Code 
+* Content 
+* Media 
+* Acknowledgements 
+
+     
 
 # User Experience  
 
@@ -116,7 +138,7 @@ deliver a more personalized service to our lovely customers, and to make them fe
  *   
 
 
-# Technologies  Used   
+# Technologies Used   
   
 ## Languages used 
 
