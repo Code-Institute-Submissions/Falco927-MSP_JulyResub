@@ -95,7 +95,13 @@ deliver a more personalized service to our lovely customers, and to make them fe
 
  * The website is responsive on all device sizes.  
 
- * Features left to implement  
+## Features left to Implement 
+
+ * 
+ 
+ * 
+
+ *   
 
 
 # Technologies  Used   
