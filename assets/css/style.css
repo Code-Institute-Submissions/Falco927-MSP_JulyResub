@@ -105,7 +105,7 @@ footer {
   line-height: 0;
   column-count: 2;
   margin-bottom: 20px;
-  column-gap: 1;
+  column-gap: 1px;
 }
 
 #photo img {
