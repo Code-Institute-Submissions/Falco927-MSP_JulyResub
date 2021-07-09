@@ -134,7 +134,9 @@ deliver a more personalized service to our lovely customers, and to make them fe
 
  * Some of other tasks i was unable to do it , due to the lack of time my deadline time was really close.  
 
- * Unable to re-write the correct links for the wireframes.(10minutes to the deadline)  
+ * Unable to re-write the correct links for the wireframes.(10minutes to the deadline)
+
+ * Unable to review my product images(5 minutes to deadline)  
    
 # Technologies Used   
   
