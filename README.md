@@ -121,17 +121,16 @@ deliver a more personalized service to our lovely customers, and to make them fe
 
 ##  Existing features  
 
- * Minimalist and clean site - This website was designed to provide a clean and smooth experience to users, created with bootstrap.  
+ * Minimalist and clean site - This website was designed to provide a clean and smooth experience to users, created with HTML5/CSS3.  
 
- * Contact -  
+ * Contact Information - Available in case users need to drop us a message to ask for anything related to the Festive space brand.   
 
- * Social media links -   
-
- * The website is responsive on all device sizes.  
+ * Social media links - Visible social media links for users to browse in case they need to visit.   
+  
 
 ## Features left to Implement 
 
- * 
+ * I was unable to implement the full responsive Boostrap grid system due the lack of time and knowledge of Bootsrap.   
  
  * 
 
