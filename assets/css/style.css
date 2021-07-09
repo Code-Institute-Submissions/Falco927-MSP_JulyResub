@@ -7,6 +7,7 @@
 }
 /* credit : code based on Love Running project from code institute https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/8b3e9adaef764e1d962a85668c799cdd/?child=first */
 
+/* After all the effort to make the backgrond-image fixed i added one more line of code with background-size set to cover. */ 
 
 body {
   font-family: Lato;
