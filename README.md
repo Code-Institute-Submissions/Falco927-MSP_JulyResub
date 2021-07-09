@@ -131,12 +131,7 @@ deliver a more personalized service to our lovely customers, and to make them fe
 ## Features left to Implement 
 
  * I was unable to implement the full responsive Boostrap grid system due the lack of time and knowledge of Bootsrap.   
- 
- * 
-
- *   
-
-
+   
 # Technologies Used   
   
 ## Languages used 
